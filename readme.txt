@@ -1,3 +1,5 @@
+#the program aims to provide questions randomly
+
 #include <cstdlib>
 #include <iostream>
 #include <ctime>
