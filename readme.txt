@@ -1,5 +1,5 @@
 #the program aims to provide questions randomly
-#2021.2.28 rainy，normal
+#2021.2.28 rainy，and i feel not so good.
 
 #include <cstdlib>
 #include <iostream>
